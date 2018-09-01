@@ -1,0 +1,12 @@
+.root{
+    -fx-background-color: #99bbff;
+    -fx-boader-radius:2px;
+}
+.btn_login{
+    -fx-background-color: #000080;
+    -fx-text-fill:aquamarine;
+}
+.btn_login:hover{
+    -fx-background-color: #4d4dff;
+   
+}
